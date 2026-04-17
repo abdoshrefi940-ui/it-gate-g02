@@ -16,4 +16,6 @@ int main (void){
   printf("sum = %d \n", add(a,b));
   printf("max = %d \n", getmax(a,b));
 return 0;
-}
+}hello devops wolcome at it-gate
+wq
+	
